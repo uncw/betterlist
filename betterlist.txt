@@ -1,3 +1,3 @@
 ! Title: BetterList
-! Version: 202501161237
-||accounts.google.com/gsi/*$xhr,script,3p
+! Version: 202501161238
+||accounts.google.com/gsi/*$script,third-party
